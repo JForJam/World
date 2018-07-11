@@ -1,0 +1,15 @@
+.center {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+
+div.a {
+    text-align:center;
+    font size: 150%;
+}
+
+<div class="w3-container w3-center">
+  <h2></h2>
+ </div>
